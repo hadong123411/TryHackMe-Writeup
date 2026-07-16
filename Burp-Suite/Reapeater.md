@@ -1,14 +1,11 @@
 
-
-<img width="679" height="503" alt="image" src="https://github.com/user-attachments/assets/ded57e3c-faae-499c-9faf-337ceb212eef" />
-
 # Burp Suite: Repeater
 
 **Platform:** TryHackMe  
 **Category:** Web Application Security  
 **Difficulty:** Easy  
 **Estimated Time:** 60 Minutes  
-**Status:** ✅ Completed
+**Status:** Completed
 
 ---
 
